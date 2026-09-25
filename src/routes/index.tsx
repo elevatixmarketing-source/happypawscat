@@ -33,7 +33,7 @@ function Index() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-background px-4 py-10">
       <div className="w-full max-w-[615px]">
-        <div className="rounded-[2.5rem] border border-border bg-card px-10 py-16 shadow-xl shadow-primary/10">
+        <div className="rounded-[2.5rem] border border-border bg-card px-10 py-20 shadow-xl shadow-primary/10">
           <div className="text-center">
             <span className="inline-flex items-center gap-2 rounded-full bg-secondary px-4 py-1.5 text-sm font-semibold text-secondary-foreground">
               🐾 HappyPaws
