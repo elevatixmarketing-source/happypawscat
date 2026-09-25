@@ -48,7 +48,7 @@ function Index() {
             serve you the freshest cat-food deals. Do you accept?
           </p>
 
-          <div className="mt-10 grid gap-4">
+          <div className="mt-12 grid gap-4">
             <button
               onClick={redirect}
               className="inline-flex items-center justify-center rounded-full bg-primary px-6 py-4 text-base font-semibold text-primary-foreground transition-transform hover:scale-[1.02] active:scale-[0.98]"
