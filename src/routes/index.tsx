@@ -45,6 +45,8 @@ function Index() {
           <img
             src={catCookie}
             alt="A happy cat holding a cookie"
+            width={832}
+            height={832}
             className="mx-auto h-44 w-44 rounded-2xl object-cover"
           />
 
