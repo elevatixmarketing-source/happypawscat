@@ -33,14 +33,14 @@ function Index() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-background px-4 py-10">
       <div className="w-full max-w-[615px]">
-        <div className="rounded-[2.5rem] border border-border bg-card px-10 py-16 shadow-xl shadow-primary/10">
+        <div className="rounded-[2.5rem] border border-border bg-card px-10 py-20 shadow-xl shadow-primary/10">
           <div className="text-center">
             <span className="inline-flex items-center gap-2 rounded-full bg-secondary px-4 py-1.5 text-sm font-semibold text-secondary-foreground">
               🐾 HappyPaws
             </span>
           </div>
 
-          <h1 className="mt-8 text-center text-3xl font-bold tracking-tight text-foreground">
+          <h1 className="mt-10 text-center text-3xl font-bold tracking-tight text-foreground">
             This site uses cookies 🍪
           </h1>
           <p className="mt-5 text-center text-lg leading-relaxed text-muted-foreground">
@@ -48,7 +48,7 @@ function Index() {
             serve you the freshest cat-food deals. Do you accept?
           </p>
 
-          <div className="mt-10 grid gap-4">
+          <div className="mt-12 grid gap-4">
             <button
               onClick={redirect}
               className="inline-flex items-center justify-center rounded-full bg-primary px-6 py-4 text-base font-semibold text-primary-foreground transition-transform hover:scale-[1.02] active:scale-[0.98]"
