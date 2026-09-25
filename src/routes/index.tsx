@@ -40,7 +40,7 @@ function Index() {
             </span>
           </div>
 
-          <h1 className="mt-8 text-center text-3xl font-bold tracking-tight text-foreground">
+          <h1 className="mt-10 text-center text-3xl font-bold tracking-tight text-foreground">
             This site uses cookies 🍪
           </h1>
           <p className="mt-5 text-center text-lg leading-relaxed text-muted-foreground">
