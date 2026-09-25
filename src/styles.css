@@ -70,14 +70,14 @@
   --card-foreground: oklch(0.27 0.06 60);
   --popover: oklch(0.99 0.015 95);
   --popover-foreground: oklch(0.27 0.06 60);
-  --primary: oklch(0.42 0.11 55);
-  --primary-foreground: oklch(0.99 0.015 95);
+  --primary: oklch(0.55 0.17 256);
+  --primary-foreground: oklch(0.99 0.005 250);
   --secondary: oklch(0.96 0.07 93);
-  --secondary-foreground: oklch(0.32 0.08 55);
+  --secondary-foreground: oklch(0.32 0.08 60);
   --muted: oklch(0.96 0.07 93);
   --muted-foreground: oklch(0.48 0.05 65);
   --accent: oklch(0.85 0.16 88);
-  --accent-foreground: oklch(0.3 0.08 55);
+  --accent-foreground: oklch(0.3 0.08 60);
   --destructive: oklch(0.577 0.245 27.325);
   --destructive-foreground: oklch(0.984 0.003 247.858);
   --border: oklch(0.85 0.09 90);

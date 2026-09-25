@@ -77,18 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "MeowBites | Cookies & Cat Treats" },
+      { title: "HappyPaws | Cookies & Cat Treats" },
       {
         name: "description",
         content:
-          "We use cookies (and biscuits). Accept to fetch the freshest cat-food deals.",
+          "HappyPaws uses cookies to serve the freshest cat-food deals.",
       },
-      { name: "author", content: "MeowBites" },
-      { property: "og:title", content: "MeowBites | Cookies & Cat Treats" },
+      { name: "author", content: "HappyPaws" },
+      { property: "og:title", content: "HappyPaws | Cookies & Cat Treats" },
       {
         property: "og:description",
         content:
-          "We use cookies (and biscuits). Accept to fetch the freshest cat-food deals.",
+          "HappyPaws uses cookies to serve the freshest cat-food deals.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
