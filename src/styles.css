@@ -64,7 +64,7 @@
 :root {
   --radius: 1rem;
   /* Warm cookie-yellow lander theme */
-  --background: oklch(0.92 0.14 92);
+  --background: oklch(0.84 0.15 92);
   --foreground: oklch(0.27 0.06 60);
   --card: oklch(0.99 0.015 95);
   --card-foreground: oklch(0.27 0.06 60);
